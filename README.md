@@ -35,3 +35,6 @@ The scraping process is applied to the following directories:
 
 - [https://www.yellowpages.com.au](https://www.yellowpages.com.au)
 - [https://www.yellowpages.com](https://www.yellowpages.com)
+
+### Contact Information
+For any inquiries or service requests, please reach out to me via [LinkedIn](https://www.linkedin.com/in/mominur--rahman/) or visit my [portfolio website](https://mominur.dev).
