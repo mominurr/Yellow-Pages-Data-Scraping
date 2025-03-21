@@ -1,7 +1,6 @@
 
 # Yellow Pages Data Scraping
 
-**Description:**  
 The Yellow Pages Data Scraping project is designed to automate the extraction of critical business details from directories such as [yellowpages.com.au](https://www.yellowpages.com.au) and [yellowpages.com](https://www.yellowpages.com). By utilizing web scraping techniques, the project gathers structured data on businesses, including:
 
 - **Business Name**
