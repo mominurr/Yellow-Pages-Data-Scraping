@@ -1,5 +1,5 @@
 
-# Project: Yellow Pages Data Scraping
+# Yellow Pages Data Scraping
 
 **Description:**  
 The Yellow Pages Data Scraping project is designed to automate the extraction of critical business details from directories such as [yellowpages.com.au](https://www.yellowpages.com.au) and [yellowpages.com](https://www.yellowpages.com). By utilizing web scraping techniques, the project gathers structured data on businesses, including:
@@ -36,5 +36,13 @@ The scraping process is applied to the following directories:
 - [https://www.yellowpages.com.au](https://www.yellowpages.com.au)
 - [https://www.yellowpages.com](https://www.yellowpages.com)
 
-### Contact Information
-For any inquiries or service requests, please reach out to me via [LinkedIn](https://www.linkedin.com/in/mominur--rahman/) or visit my [portfolio website](https://mominur.dev).
+## Contact Me
+
+For any inquiries or service requests, please reach out to me via LinkedIn or visit my portfolio website:
+
+- **Portfolio:** [mominur.dev](https://mominur.dev)
+- **GitHub:** [github.com/mominurr](https://github.com/mominurr)
+- **LinkedIn:** [linkedin.com/in/mominur--rahman](https://www.linkedin.com/in/mominur--rahman/)
+- **Email:** mominurr518@gmail.com
+
+I look forward to connecting with you!
